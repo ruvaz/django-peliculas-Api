@@ -10,7 +10,7 @@ pylint = "*"
 [packages]
 djangorestframework = "==3.9.1"
 django-filter = "==2.1.0"
-Django = "==2.2.3"
+Django = "==2.2.20"
 Markdown = "==3.0.1"
 django-rest-auth = "==0.9.3"
 django-allauth = "==0.38.0"
